@@ -1,4 +1,4 @@
-## Plotting Consumer Complaints using Panda
+# Plotting Consumer Complaints using Panda
 
 All of the plots and analysis are contained in [this jupyter notebook](https://github.com/katjackson/consumer-complaints/blob/master/consumer-complaints.ipynb).
 
